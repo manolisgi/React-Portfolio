@@ -1,6 +1,6 @@
 import React from "react";
 
-function Learn() {
+function Projects() {
   return (
     <div>
       <h1 className="text-center">hello</h1>
@@ -13,4 +13,4 @@ function Learn() {
   );
 }
 
-export default Learn;
+export default Projects;

@@ -3,7 +3,9 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Hi There!</h1>
+      <h2>This is Emmanouil</h2>
+      <h2>I'm a web developer</h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
         varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.
