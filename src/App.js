@@ -6,6 +6,8 @@ import About from './components/pages/About';
 import Blog from './components/pages/Blog';
 import Contact from './components/pages/Contact';
 import Projects from './components/pages/Projects';
+import "./style.css";
+import "./App.css";
 
 function App() {
   return (

@@ -1,10 +1,11 @@
 import React from "react";
 
+
 function About() {
   return (
     <div>
-      <h3>Let me introduce myself</h3>
-      <h1>About Me</h1>
+      <h3 className="aboutTitle">Let me introduce myself</h3>
+      <h1 className="aboutMe">About Me</h1>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui
         mauris, ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus

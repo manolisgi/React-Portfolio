@@ -1,0 +1,26 @@
+  body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 20px;
+    font-size: 1rem;
+    font-weight: 1.5;
+    line-height: 1.5;
+    color: black;
+    background-color: #FAF7F0;
+  }
+
+ .aboutTitle {
+    font-size: 1rem0;
+    text-align: center;
+
+ }
+
+ .aboutMe {
+    font-size: 2rem0;
+    text-align: center;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-color: #98A8F8;
+    text-decoration-style: double ;
+ }
+
+ 
